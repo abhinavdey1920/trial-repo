@@ -34,7 +34,7 @@ int main(){
 	head=insertend(head,20);
 	cout<<head->data<<" ";
 	head=insertend(head,30);
-	cout<<head->data;
+	cout<<" "<<head->data;
 	head=insertend(head,40);
 	cout<<head->data;
 	head=insertend(head,50);
